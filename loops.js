@@ -13,7 +13,7 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(num) {
-  let i = num
+  let i = 0
 
   function incrementVariable() {
     i = i + 1;
